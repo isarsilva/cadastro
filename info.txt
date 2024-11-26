@@ -1,0 +1,19 @@
+Adicionar Aluno:
+
+Nome
+Idade
+Matrícula
+Curso
+Período (ex.: manhã, tarde, noite)
+Listar Alunos:
+
+Exibir todos os alunos cadastrados.
+Editar Aluno:
+
+Alterar informações de um aluno específico.
+Excluir Aluno:
+
+Remover um aluno do sistema.
+Buscar Aluno (opcional):
+
+Pesquisar pelo nome ou número de matrícula.
